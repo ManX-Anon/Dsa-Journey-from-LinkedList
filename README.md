@@ -32,7 +32,7 @@ This repo tracks my day-by-day progress as I rebuild my DSA fundamentals from th
 DSA/
 ├── LinkedList/
 │   ├── Traversal, Length & Search
-│   ├── Insertion (head, tail, position, K)
+│   ├── Insertion (head, tail, position, kth)
 │   └── Deletion (head, tail, Kth, element)
 │
 ├── Arrays/          (coming soon)
