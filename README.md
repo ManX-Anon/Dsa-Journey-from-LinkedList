@@ -74,7 +74,7 @@ Each topic folder contains problems/implementations in both `.cpp` and `.java`, 
 
 Consistently solve and implement DSA concepts daily — building strong fundamentals topic by topic, from Linked Lists all the way through advanced Graphs and Dynamic Programming.
 
-## 🔗 Connect : [Email](nightshadeprotocol@proton.me)
+## 🔗 Connect : **Email**: nightshadeprotocol@proton.me
 
 Follow the journey and progress updates on [LinkedIn](https://www.linkedin.com/in/vivek-yadav-b05244292/).
 
