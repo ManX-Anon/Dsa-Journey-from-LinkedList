@@ -1,0 +1,14 @@
+# Compiled binaries
+a.out
+initial
+isPresent
+it
+length
+searching
+traverse
+
+# Java class files
+*.class
+
+# OS files
+.DS_Store
