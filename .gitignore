@@ -12,3 +12,4 @@ HEAD_FETCH
 
 # OS files
 .DS_Store
+FETCH_HEAD
